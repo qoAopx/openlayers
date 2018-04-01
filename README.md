@@ -13,6 +13,6 @@
 - GoogleMapAPIと感じが違いすぎて...苦労しました。
 - マーカーの処理は多分ちがうと思います...
 
-## Github pages
+## GitHub Pages
 
 - [ここで動きます。](https://qoaopx.github.io/openlayers/)
